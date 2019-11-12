@@ -20,7 +20,7 @@
 Welcome to the helmet guidelines page. Just read through this and it should answer all your questions. Some things are collpased by the way to save space :) look under this for what I mean
 
 ??? note "CLICK ME 😠"
-    Spooky 👻👻👻, Flux says hi.
+    Spooky 👻👻👻, Flux says hi. ( ͡° ͜ʖ ͡°)
 
     ![flux_helmet][flux_helm]
 
