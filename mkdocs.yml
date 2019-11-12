@@ -5,6 +5,7 @@ nav:
     - Home: index.md
     - About us: aboutus.md
     - Helmet Information: helmets.md
+    - Current Projects: current_projects.md
     - Changelogs:
         Changelog Information: changelog.md
         Legacy Changelogs:
