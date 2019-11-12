@@ -143,7 +143,7 @@ This image is the possible colors that you are allowed.
 
 #### Adenn Squad
 
-??? note  "**Adenn**"
+??? note  "**Squad Adenn**"
     ![arc_adenn][arc_adenn_template]
 
 ??? note  "**Team Cyrus**"
