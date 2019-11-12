@@ -4,6 +4,13 @@ site_name: 501st Aux mod Mkdocs
 nav:
     - Home: index.md
     - Mod Download: mod_links.md
+    - Helmet Information: helmets.md
+    - Changelogs:
+        Changelog Information: changelog.md
+        Legacy Changelogs:
+          RE3: changelogs/legacy_changelogs/RE3.md
+          Airerium: changelogs/legacy_changelogs/aireium.md
+         
 
 theme:
   name: 'material'
@@ -18,8 +25,12 @@ theme:
     accent: 'amber'
 
 markdown_extensions:
+  - toc
   - codehilite:
       linenums: true
+  - admonition
+  - pymdownx.superfences
+
 
 extra_css:
   - stylesheets/dark_theme.css
