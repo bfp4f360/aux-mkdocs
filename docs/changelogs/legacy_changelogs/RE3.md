@@ -7,35 +7,6 @@
 
 Remade, Renewed, Refreshed.
 
-## Table of Contents <!-- omit in toc -->
-
-- [Introduction](#introduction)
-- [Infantry Weapons 🔫](#infantry-weapons-)
-  - [Scopes](#scopes)
-  - [Mod 0](#mod-0)
-  - [Z6](#z6)
-  - [Sidenote ⚠️](#sidenote-️)
-- [Vehicles 🚗](#vehicles-)
-- [Aviation ✈️](#aviation-️)
-- [Particle Effects 🍄](#particle-effects-)
-- [Zeus CAS Modules ⚡](#zeus-cas-modules-)
-- [Low Poly Droids 🤖](#low-poly-droids-)
-- [Stretcher 💉](#stretcher-)
-- [Factions 🎖️](#factions-️)
-- [Other 🤷](#other-)
-- [Additions/Other](#additionsother)
-- [Prototypes](#prototypes)
-- [Jumppack 🦘](#jumppack-)
-- [For other mod devs 💻](#for-other-mod-devs-)
-  - [Legacy Classnames](#legacy-classnames)
-  - [Arsenal Loadouts](#arsenal-loadouts)
-  - [Keys](#keys)
-- [Helmets ⛑️](#helmets-️)
-  - [Aviation Helmets](#aviation-helmets)
-  - [Infantry Helmets](#infantry-helmets)
-  - [AB Helmets](#ab-helmets)
-- [Closing Remarks](#closing-remarks)
-
 ## Introduction
 
 Hello there 👋
