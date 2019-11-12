@@ -18,14 +18,14 @@
 Welcome to the helmet guidelines page. Just read through this and it should answer all your questions. Some things are collpased by the way to save space :) look under this for what I mean
 
 ??? note "CLICK ME 😠"
-    Spooky 👻👻👻
+    Spooky 👻👻👻, Flux says hi.
 
 ## People who make the helmets
 
-==**CS Sam:**== Will be the lead for texturing for the mod. If you have questions ask him.  
-==**CT Calo:**== Will be in charge of Airborne related textures.  
-==**CX-X Casskun:**== Will be incharge of Aviation related textures, helmets ,vehicles and whatever.  
-==**CP Kestral:**== Will be in charge of Infantry textures and other miscellaneous textures.  
+==**Sam:**== Will be the lead for texturing for the mod. If you have questions ask him.  
+==**Calo:**== Will be in charge of Airborne related textures.  
+==**Casskun:**== Will be incharge of Aviation related textures, helmets ,vehicles and whatever.  
+==**Kestral:**== Will be in charge of Infantry textures and other miscellaneous textures.  
 
 All other textures will be spread across these 4.
 

@@ -2,7 +2,7 @@
 
 Im going to follow the way Ubuntu does their versioning because I think its pretty cool but with a slight change. Heres how it will be
 
-```
+```js
 Year.month.day
 ```
 

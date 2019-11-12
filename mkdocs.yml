@@ -16,7 +16,7 @@ theme:
   name: 'material'
   custom_dir: 'theme'
   logo:
-    icon: 'security'
+    icon: 'whatshot'
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
