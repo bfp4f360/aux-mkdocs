@@ -25,6 +25,17 @@ These are current major projects that I am working on that are noteworthy becaus
 
     Textures have been made, just gotta impliment and test.
 
+??? bug "Fix Aux bugs"
+    Will never be done cause im bad, 
+    
+    ```
+    FFF
+    F
+    FFF
+    F
+    F
+    ```
+
 ??? bug "Project Fix SWOP"
     Will never be done, abort, halp, plz end me.......
     
