@@ -3,7 +3,6 @@ site_name: 501st Aux mod Mkdocs
 
 nav:
     - Home: index.md
-    - Mod Download: mod_links.md
     - Helmet Information: helmets.md
     - Changelogs:
         Changelog Information: changelog.md
