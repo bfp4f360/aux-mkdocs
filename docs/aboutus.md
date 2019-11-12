@@ -3,6 +3,7 @@
 ## Big boi at top
 
 **Namenai:** you know who I am. Wowe.
+**Zatama:** Big Irish Potatoe man, current on LOA, F
 
 ## Helper boiz
 
@@ -15,3 +16,7 @@
 
 **Delaney**: He new boi who do texturing, he might be big boi soon. Wowe.  
 **Verax**: He...idk what he does? is he afk? who knows 😛. Wowe.
+
+## Rest in Peace
+
+**Rexi:** He gone forever, big sad, he off in better places, playing GMOD.
