@@ -13,36 +13,19 @@
 [arc_adenn_template]: https://cdn.discordapp.com/attachments/523224901516263434/622272173951942656/Adenn.png "Arc adenn template"
 [arc_cyrus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982787363897364/CyrusHelmetTemplate.png "Arc cyrus template"
 [arc_solus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982760000258059/SolusHelmetTemplate.png "Arc solus template"
-# Helmet guidelines <!-- omit in toc -->
+# Helmet guidelines 
 
-Helmet approval process has be restructured to allow for a faster delivery time. Additionaly helmet guidelines have been updated to account for time/dedication in unit.
+Welcome to the helmet guidelines page. Just read through this and it should answer all your questions. Some things are collpased by the way to save space :) look under this for what I mean
 
-## Table of Contents <!-- omit in toc -->
-
-- [People who make the helmets](#people-who-make-the-helmets)
-- [Process](#process)
-  - [Google Form](#google-form)
-  - [Helmet apporval process for Airborne, Aviation and Infantry](#helmet-apporval-process-for-airborne-aviation-and-infantry)
-  - [ARC](#arc)
-- [Templates](#templates)
-  - [Colors](#colors)
-  - [Infantry Template](#infantry-template)
-  - [Airborne Template](#airborne-template)
-  - [Aviation Template](#aviation-template)
-  - [ARC Template](#arc-template)
-    - [Verda Squad](#verda-squad)
-    - [Adenn Squad](#adenn-squad)
-- [Guidelines](#guidelines)
-  - [Infantry, Airborne, and ARC Guidelines](#infantry-airborne-and-arc-guidelines)
-  - [Aviation Guidelines](#aviation-guidelines)
-    - [Conditions](#conditions)
+??? note "CLICK ME 😠"
+    Spooky 👻👻👻
 
 ## People who make the helmets
 
-**CS Sam:** Will be the lead for texturing for the mod. If you have questions ask him.  
-**CT Calo:** Will be in charge of Airborne related textures.  
-**CX-X Casskun:** Will be incharge of Aviation related textures, helmets ,vehicles and whatever.  
-**CP Kestral:** Will be in charge of Infantry textures and other miscellaneous textures.  
+==**CS Sam:**== Will be the lead for texturing for the mod. If you have questions ask him.  
+==**CT Calo:**== Will be in charge of Airborne related textures.  
+==**CX-X Casskun:**== Will be incharge of Aviation related textures, helmets ,vehicles and whatever.  
+==**CP Kestral:**== Will be in charge of Infantry textures and other miscellaneous textures.  
 
 All other textures will be spread across these 4.
 
@@ -52,88 +35,95 @@ These folks will get in contact with you, depending on where you are, regarding 
 
 ### Google Form
 
-!!! info
+!!! info "Helmet Submitions"
     [This](https://docs.google.com/forms/d/e/1FAIpQLSfhZW5Uv62KyTxiCFaFDw6OoL8ng-DfEJ36BJFzDxDBEqX_iA/viewform) is the new Google Form for helmet submission.
 
     [This](https://docs.google.com/spreadsheets/d/1dAYhbEN5ca_bCJ147h4vnMr5gKZ6Z3Uze4Y-N6XSvfA/edit#gid=184053813) is the Google Spreadsheet for responses.
 
 
 
-### Helmet apporval process for Airborne, Aviation and Infantry
+### Apporval Processes
 
-1. Design your helmet with the base template. 
-2. Once your done, submit the texture to the forum [here](https://docs.google.com/forms/d/e/1FAIpQLSdRKswPFHkU03VbGv9LXHPPz_WpMMbagMCvZkUCRBz3xkbcJg/viewform)
-3. If your helmet is rejected by the texturer then apply changes said texturer said/suggests.
-4. Once the texturer has accepted the helmet and meets the guidelines, the template will be sent to youe direct CoC for acceptance. If CoC denies then remake helmet with their specifications
-5. Texturer will then texture the helmet and finally show an ingame preview of the helmet to both you and your direct CoC for acceptance.
-6. After this final acceptance the helmet will be put in queue to be put in mod.
-7. enjoy 😊.
+??? note "AB,Infantry and Aviation"
+    1. Design your helmet with the base template. 
+    2. Once your done, submit the texture to the forum [here](https://docs.google.com/forms/d/e/1FAIpQLSdRKswPFHkU03VbGv9LXHPPz_WpMMbagMCvZkUCRBz3xkbcJg/viewform)
+    3. If your helmet is rejected by the texturer then apply changes said texturer said/suggests.
+    4. Once the texturer has accepted the helmet and meets the guidelines, the template will be sent to youe direct CoC for acceptance. If CoC denies then remake helmet with their specifications
+    5. Texturer will then texture the helmet and finally show an ingame preview of the helmet to both you and your direct CoC for acceptance.
+    6. After this final acceptance the helmet will be put in queue to be put in mod.
+    7. enjoy 😊.
+
+??? note "ARC"
+    Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template and if applicable use the team template. Its a little bit confusing so lets break it down.
+
+    1. There are two squads,**Verda** and **Adenn**
+    2. Each squad has 2 teams, this brings the total number of templats to 6
+    3. If you are the squad leader you use the squad template (**Verda** or **Adenn**)
+    4. If you are in the team, you would use the team template (**Triton** and **Beskar** for **Verda** and then **Cyrus** and **Solus** for **Adenn**)
+    5. Follow the normal Infantry guidelines.
+
+    Heres a nice little chart.
+
+    ```md
+    ├── ARC Command
+    ├──── **Custom Helmet**
+
+    ├── Verda Squad
+    ├──── Squad Leader
+    ├────── **Use Verda template**
+    ├──── Team Triton
+    ├────── **Use Triton template**
+    ├──── Team Beskar
+    ├────── **Use Beskar template**
+
+    ├── Adenn Squad
+    ├──── Squad Leader
+    ├────── **Use Adenn template**
+    ├──── Team Cyrus
+    ├────── **Use Cyrus template**
+    ├──── Team Solus
+    ├────── **Use Solus template**
+
+    ├── Not in ARC
+    └──── Nothing :(
+    ```
+
+    So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template.
 
 
 ### ARC
 
-Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template and if applicable use the team template. Its a little bit confusing so lets break it down.
 
-1. There are two squads,**Verda** and **Adenn**
-2. Each squad has 2 teams, this brings the total number of templats to 6
-3. If you are the squad leader you use the squad template (**Verda** or **Adenn**)
-4. If you are in the team, you would use the team template (**Triton** and **Beskar** for **Verda** and then **Cyrus** and **Solus** for **Adenn**)
-5. Follow the normal Infantry guidelines.
 
-Heres a nice little chart.
 
-```md
-├── ARC Command
-├──── **Custom Helmet**
-
-├── Verda Squad
-├──── Squad Leader
-├────── **Use Verda template**
-├──── Team Triton
-├────── **Use Triton template**
-├──── Team Beskar
-├────── **Use Beskar template**
-
-├── Adenn Squad
-├──── Squad Leader
-├────── **Use Adenn template**
-├──── Team Cyrus
-├────── **Use Cyrus template**
-├──── Team Solus
-├────── **Use Solus template**
-
-├── Not in ARC
-└──── Nothing :(
-```
-
-So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template.
 
 ## Templates
 
 !!! danger
-    **Disregard** the uniform, only look at helmet.
+    **Disregard** the uniform, only look at helmet. ==YOU CAN ONLY USE THESE COLORS==
 
 ### Colors
 
 This image is the possible colors that you are allowed.
 
-![colors][color_possible]
+??? note  "Allowed Colors"
+    ![colors][color_possible]
 
 ### Infantry Template
 
-Veteran troopers and CP have access to this template  
-![vet][vet_template]
+??? note  "Veteran troopers and CP have access to this template"
+    ![vet][vet_template]
 
-CS+ can use the above template, or choose to use the sergeant template below if they wish.
-![serge][serge_template]
+??? note  "CS+ can use the above template, or choose to use the sergeant template below if they wish."
+    ![serge][serge_template]
 
 ### Airborne Template
 
-Airborne Veteran troopers **can only** use this template
-![ab_vet][ab_vet_template]
+??? note  "Airborne Veteran troopers **can only** use this template"
+    ![ab_vet][ab_vet_template]
 
-Airborne NCO's **can only** use this template  
-![ab_nco][ab_nco_template]
+??? note  "Airborne NCO's **can only** use this template"
+    ![ab_nco][ab_nco_template]
 
 ### Aviation Template
 
@@ -145,25 +135,25 @@ Airborne NCO's **can only** use this template
 
 #### Verda Squad
 
-**Squad Verda**
-![arc_verda][arc_verda_template]
+??? note  "**Squad Verda**"
+    ![arc_verda][arc_verda_template]
 
-**Team Triton**
-![arc_triton][arc_triton_template]
+??? note  "**Team Triton**"
+    ![arc_triton][arc_triton_template]
 
-**Team Beskar**
-![arc_beskar][arc_beskar_template]
+??? note  "**Team Beskar**"
+    ![arc_beskar][arc_beskar_template]
 
 #### Adenn Squad
 
-**Adenn**
-![arc_adenn][arc_adenn_template]
+??? note  "**Adenn**"
+    ![arc_adenn][arc_adenn_template]
 
-**Team Cyrus**
-![arc_triton][arc_cyrus_template]
+??? note  "**Team Cyrus**"
+    ![arc_triton][arc_cyrus_template]
 
-**Team Solus**
-![arc_beskar][arc_solus_template]
+??? note  "**Team Solus**"
+    ![arc_beskar][arc_solus_template]
 
 ## Guidelines
 

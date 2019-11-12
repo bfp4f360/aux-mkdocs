@@ -30,6 +30,8 @@ markdown_extensions:
       linenums: true
   - admonition
   - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.mark
 
 
 extra_css:
