@@ -5,7 +5,9 @@ These are current major projects that I am working on that are noteworthy becaus
 ??? success "Project Skooma Jumppack"
     Making a custom jumppack script with as much flexiblity as possible.
     Features one time use jumppacks, jumppacks with different energy capcities,
-    recharge rates and differnet jumps. This mod has been successfuly implimented into aux mod.
+    recharge rates and differnet jumps. 
+    
+    This mod has been successfuly implimented into aux mod.
 
 ??? warning "Project Prototype"
     SWOP is big bad. So lets start moving our weapons to the 212th ones. At the
@@ -27,7 +29,7 @@ These are current major projects that I am working on that are noteworthy becaus
 
 ??? bug "Fix Aux bugs"
     Will never be done cause im bad, 
-    
+
     ```
     FFF
     F
