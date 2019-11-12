@@ -3,6 +3,7 @@ site_name: 501st Aux mod Mkdocs
 
 nav:
     - Home: index.md
+    - About us: aboutus.md
     - Helmet Information: helmets.md
     - Changelogs:
         Changelog Information: changelog.md
@@ -31,6 +32,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.mark
+
+plugins:
+  - search
 
 
 extra_css:

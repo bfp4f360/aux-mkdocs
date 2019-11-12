@@ -90,13 +90,6 @@ These folks will get in contact with you, depending on where you are, regarding 
 
     So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template.
 
-
-### ARC
-
-
-
-
-
 ## Templates
 
 !!! danger
@@ -157,48 +150,48 @@ This image is the possible colors that you are allowed.
 
 ## Guidelines
 
-### Infantry, Airborne, and ARC Guidelines
+### 
 
 
 
 !!! danger
     **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
-***1 marking= palm size***
+??? note "Infantry, Airborne, and ARC Guidelines"
+    ***1 marking= palm size***
 
-| Rank             | Customization            |
-|------------------|--------------------------|
-| **Vet**          | 2 markings/color changes |
-| **Corporal**     | 2 markings/color changes |
-|  **Sr Corporal** | 3 markings/color changes |
-| **Sergeant**     | 3 markings/color changes |
-| **Sr Sergeant**  | 4 markings/color changes |
-| **CS-M+**        | full custom (**NOTE:** Glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special. Glowing helmets by SWOP wont be changed,only applies to additions and the color will be the current blue/cyan color.)              |
+    | Rank             | Customization            |
+    |------------------|--------------------------|
+    | **Vet**          | 2 markings/color changes |
+    | **Corporal**     | 2 markings/color changes |
+    |  **Sr Corporal** | 3 markings/color changes |
+    | **Sergeant**     | 3 markings/color changes |
+    | **Sr Sergeant**  | 4 markings/color changes |
+    | **CS-M+**        | full custom (==**NOTE:**== Glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special. Glowing helmets by SWOP wont be changed,only applies to additions and the color will be the current blue/cyan color.)              |
 
-**Remember** to use correct templates.
+??? note "Aviation Guidelines"
+    #### Conditions
 
-### Aviation Guidelines
+    - **Must** meet one of the following to have a custom helmet.
 
-#### Conditions
+    1. You are a Section Leader. Follow inbetween CP/CS rules, so 2-3 markings/color changes
+    2. You are a Flight Commander.
+    3. A member of Lightning and CX-X+
+    4. The design is minimal - change or addition has not altered the original base design.
+    5. Not a cadet (Big Sad)
 
-- **Must** meet one of the following to have a custom helmet.
+    Follow these for rank based rules.
 
-1. You are a Section Leader. Follow inbetween CP/CS rules, so 2-3 markings/color changes
-2. You are a Flight Commander.
-3. A member of Lightning and CX-X+
-4. The design is minimal - change or addition has not altered the original base design.
-5. Not a cadet (Big Sad)
+    | Rank             | Customization            |
+    |------------------|--------------------------|
+    | **CX-X Sr**      | image size of palm       |
+    | **CX-P**         | CS Rules                 |
+    |  **CX-S**        | CS Rules                 |
+    | **CX**           | Full                     |
+    | **Lightning CX-X**  | Light changes |
+    | **Lightning CX-P**  | CS rules |
+    | **Lightning CX-S**  | Full |
 
-Follow these for rank based rules.
+    **Note:** Billet may allow more,communicate with Aviation CoC for more details.
 
-| Rank             | Customization            |
-|------------------|--------------------------|
-| **CX-X Sr**      | image size of palm       |
-| **CX-P**         | CS Rules                 |
-|  **CX-S**        | CS Rules                 |
-| **CX**           | Full                     |
-| **Lightning CX-X**  | Light changes |
-| **Lightning CX-P**  | CS rules |
-| **Lightning CX-S**  | Full |
-
-**Note:** Billet may allow more,communicate with Aviation CoC for more details. 
+==**Remember**== to use correct templates.
