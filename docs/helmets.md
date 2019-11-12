@@ -13,12 +13,16 @@
 [arc_adenn_template]: https://cdn.discordapp.com/attachments/523224901516263434/622272173951942656/Adenn.png "Arc adenn template"
 [arc_cyrus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982787363897364/CyrusHelmetTemplate.png "Arc cyrus template"
 [arc_solus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982760000258059/SolusHelmetTemplate.png "Arc solus template"
+
+[flux_helm]: https://cdn.discordapp.com/attachments/425473601047887876/643624891408711700/angrysadcrabhad.png "flux helmet"
 # Helmet guidelines 
 
 Welcome to the helmet guidelines page. Just read through this and it should answer all your questions. Some things are collpased by the way to save space :) look under this for what I mean
 
 ??? note "CLICK ME 😠"
     Spooky 👻👻👻, Flux says hi.
+
+    ![flux_helmet][flux_helm]
 
 ## People who make the helmets
 
