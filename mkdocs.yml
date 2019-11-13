@@ -9,8 +9,8 @@ nav:
     - Changelogs:
         Changelog Information: changelog.md
         Legacy Changelogs:
-          RE3: changelogs/legacy_changelogs/RE3.md
-          Airerium: changelogs/legacy_changelogs/aireium.md
+          1. RE3: changelogs/legacy_changelogs/RE3.md
+          2. Airerium: changelogs/legacy_changelogs/aireium.md
          
 
 theme:
