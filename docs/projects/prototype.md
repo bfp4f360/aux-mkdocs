@@ -1,4 +1,4 @@
-# Projet Prototype
+# Project Prototype
 
 !!! danger "READ ME"
     Note that any of these changes are stuff that I intended to do. Execution is
