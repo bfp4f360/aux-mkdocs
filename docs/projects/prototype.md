@@ -69,5 +69,10 @@ Im going to try to my best order the guns on different stats. **Left** is lowest
 
     Z6 <  carbine < (Rifle = GL)  < Mod-0 < LE
 
-!!! info "Mag size"
+!!! info "Mag weight"
     carbine < (Rifle = GL) < LE < Mod - 0 < Z6
+
+!!! info "Mag Capacity"
+    LE < (Rifle = GL) < Mod-0 < Z6 < Carbine
+
+As you can see, I try my best to make each gun being the best at one area,and worst at one area. I try.
