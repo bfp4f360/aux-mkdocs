@@ -56,7 +56,7 @@ These folks will get in contact with you, depending on where you are, regarding 
     5. Texturer will then texture the helmet and finally show an ingame preview of the helmet to both you and your direct CoC for acceptance.
     6. After this final acceptance the helmet will be put in queue to be put in mod.
     7. enjoy 😊.
-
+<!-- 
 ??? note "ARC"
     Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template and if applicable use the team template. Its a little bit confusing so lets break it down.
 
@@ -92,7 +92,7 @@ These folks will get in contact with you, depending on where you are, regarding 
     └──── Nothing :(
     ```
 
-    So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template.
+    So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template. -->
 
 ## Templates
 
@@ -128,7 +128,7 @@ This image is the possible colors that you are allowed.
     None. Speak to Casskun and Aviation CoC beforehand.
 
 
-### ARC Template
+<!-- ### ARC Template
 
 #### Verda Squad
 
@@ -150,7 +150,7 @@ This image is the possible colors that you are allowed.
     ![arc_triton][arc_cyrus_template]
 
 ??? note  "**Team Solus**"
-    ![arc_beskar][arc_solus_template]
+    ![arc_beskar][arc_solus_template] -->
 
 ## Guidelines
 
@@ -161,7 +161,7 @@ This image is the possible colors that you are allowed.
 !!! danger
     **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
-??? note "Infantry, Airborne, and ARC Guidelines"
+??? note "Infantry, Airborne, and ~~ARC~~ Guidelines"
     ***1 marking= palm size***
 
     | Rank             | Customization            |
