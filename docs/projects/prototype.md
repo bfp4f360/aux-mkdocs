@@ -11,7 +11,8 @@ The objective of Project Prototype is 3 fold
 2. Use the 212th weapons
 3. Change everything to be better? Well as much as I can :)
 
-
+!!! danger "MAG"
+    Im thinking of making the DC-15a rifle be the universal mag instead of having two for it.
 
 There are changes to ammo,mags and weapons. Additionaly theres bullet drop, as in the bullet will just go down.
 
