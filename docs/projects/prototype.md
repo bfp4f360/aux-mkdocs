@@ -57,5 +57,17 @@ I will now list the changes for each weapon.
 Im going to try to my best order the guns on different stats. **Left** is lowest/worst, **right** is highest/best
 
 
-!!! info "Damage:
-    carbine < Mod-0 < Rifle = GL < Z6 < LE
+!!! info "Damage"
+    carbine < Mod-0 < (Rifle = GL) < Z6 < LE
+
+    
+!!! info "RPM"
+    LE < (Rifle = GL) < Mod-0 < Z6 < Carbine
+
+!!! info "Bullet drop"
+    Right is lowest bullet drop, aka strightest path
+
+    Z6 <  carbine < (Rifle = GL)  < Mod-0 < LE
+
+!!! info "Mag size"
+    carbine < (Rifle = GL) < LE < Mod - 0 < Z6
