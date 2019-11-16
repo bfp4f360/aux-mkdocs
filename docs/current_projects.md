@@ -22,6 +22,8 @@ These are current major projects that I am working on that are noteworthy becaus
 
     Currently in private testing phase, will soon be up for Acklay test 😃
 
+    Click [here](/projects/prototype) for more information
+
 ??? warning "Project Light"
     Big suprise,involves reskinning a special droid.
 
