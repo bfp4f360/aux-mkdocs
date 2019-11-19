@@ -57,43 +57,6 @@ These folks will get in contact with you, depending on where you are, regarding 
     6. After this final acceptance the helmet will be put in queue to be put in mod.
     7. enjoy 😊.
 
-??? note "~~ARC~~"
-    <!-- Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template and if applicable use the team template. Its a little bit confusing so lets break it down. -->
-    U dont get helmet,F.
-    <!-- 1. There are two squads,**Verda** and **Adenn** -->
-    <!-- 2. Each squad has 2 teams, this brings the total number of templats to 6 -->
-    <!-- 3. If you are the squad leader you use the squad template (**Verda** or **Adenn**) -->
-    <!-- 4. If you are in the team, you would use the team template (**Triton** and **Beskar** for **Verda** and then **Cyrus** and **Solus** for **Adenn**) -->
-    <!-- 5. Follow the normal Infantry guidelines. -->
-
-    <!-- Heres a nice little chart. -->
-
-    <!-- ```md -->
-    <!-- ├── ARC Command -->
-    <!-- ├──── **Custom Helmet** -->
-
-    <!-- ├── Verda Squad -->
-    <!-- ├──── Squad Leader -->
-    <!-- ├────── **Use Verda template** -->
-    <!-- ├──── Team Triton -->
-    <!-- ├────── **Use Triton template** -->
-    <!-- ├──── Team Beskar -->
-    <!-- ├────── **Use Beskar template** -->
-
-    <!-- ├── Adenn Squad -->
-    <!-- ├──── Squad Leader -->
-    <!-- ├────── **Use Adenn template** -->
-    <!-- ├──── Team Cyrus -->
-    <!-- ├────── **Use Cyrus template** -->
-    <!-- ├──── Team Solus -->
-    <!-- ├────── **Use Solus template** -->
-
-    <!-- ├── Not in ARC -->
-    <!-- └──── Nothing :( -->
-    <!-- ``` -->
-
-    <!-- So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template. -->
-
 ## Templates
 
 !!! danger
@@ -106,7 +69,7 @@ This image is the possible colors that you are allowed.
 ??? note  "Allowed Colors"
     ![colors][color_possible]
 
-### Infantry Template
+### Infantry/CW Template
 
 ??? note  "Veteran troopers and CP have access to this template"
     ![vet][vet_template]
@@ -127,43 +90,12 @@ This image is the possible colors that you are allowed.
 !!! warning
     None. Speak to Casskun and Aviation CoC beforehand.
 
-
-### ~~ARC Template~~
-
-#### ~~Verda Squad~~
-
-??? note  "~~**Squad Verda**~~"
-    N/A
-    <!-- ![arc_verda][arc_verda_template] -->
-
-??? note  "~~**Team Triton**~~"
-    RIP
-    <!-- ![arc_triton][arc_triton_template] -->
-
-??? note  "~~**Team Beskar**~~"
-    N/A
-    <!-- ![arc_beskar][arc_beskar_template] -->
-
-#### ~~Adenn Squad~~
-
-??? note  "~~**Squad Adenn**~~"
-    RIP
-    <!-- ![arc_adenn][arc_adenn_template] -->
-
-??? note  "~~**Team Cyrus**~~"
-    N/A
-    <!-- ![arc_triton][arc_cyrus_template] -->
-
-??? note  "~~**Team Solus**~~"
-    RIP
-    <!-- ![arc_beskar][arc_solus_template] -->
-
 ## Guidelines
 
 !!! danger
     **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
-??? note "Infantry, Airborne, and ~~ARC~~ Guidelines"
+??? note "Infantry, Airborne, and CW Guidelines"
     ***1 marking= palm size***
 
     | Rank             | Customization            |
@@ -174,6 +106,12 @@ This image is the possible colors that you are allowed.
     | **Sergeant**     | 3 markings/color changes |
     | **Sr Sergeant**  | 4 markings/color changes |
     | **CS-M+**        | full custom (==**NOTE:**== Glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special. Glowing helmets by SWOP wont be changed,only applies to additions and the color will be the current blue/cyan color.)              |
+
+    | Rank             | Customization            |
+    |------------------|--------------------------|
+    | **CW-P**          | Same as CP |
+    | **CW-S**     | 3 markings/color changes |
+    |  ** CW-M** | full custom (No glowing visor) |
 
 ??? note "Aviation Guidelines"
     #### Conditions
