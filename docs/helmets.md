@@ -96,6 +96,7 @@ This image is the possible colors that you are allowed.
     **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
 ??? note "Infantry, Airborne, and CW Guidelines"
+    #### Conditions Infantry
     ***1 marking= palm size***
 
     | Rank             | Customization            |
@@ -114,7 +115,7 @@ This image is the possible colors that you are allowed.
     |  ** CW-M** | full custom (No glowing visor) |
 
 ??? note "Aviation Guidelines"
-    #### Conditions
+    #### Conditions Aviation
 
     - **Must** meet one of the following to have a custom helmet.
 
