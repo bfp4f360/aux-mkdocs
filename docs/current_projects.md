@@ -7,7 +7,7 @@ These are current major projects that I am working on that are noteworthy becaus
     Features one time use jumppacks, jumppacks with different energy capcities,
     recharge rates and differnet jumps. 
     
-    This mod has been successfuly implimented into aux mod.
+    This mod has been successfuly implimented into aux mod. Go to controls and find `RD501 Jumppack` or something to change key binds.
 
 ??? warning "Project Prototype"
     SWOP is big bad. So lets start moving our weapons to the 212th ones. At the
