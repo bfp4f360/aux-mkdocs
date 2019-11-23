@@ -19,6 +19,10 @@
 ==**Verax**==: He...idk what he does? is he afk? who knows 😛. Wowe.  
 ==**Brandon**==: Big thank for doing lots of testing wowe.
 
-## Rest in Peace
+## Other helpie boiz
 
+==**Dutch**==: Used to be in 212th and SWLS who is now batmod. Big helps on AB stuff and memes.
+
+## Rest in Peace
+Finally, best for last  
 ==**Rexi**==: He gone forever, big sad, he off in better places, playing GMOD.
