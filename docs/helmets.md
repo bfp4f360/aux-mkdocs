@@ -92,7 +92,7 @@ This image is the possible colors that you are allowed.
 
 ## Guidelines
 
-!!! danger
+!!! danger "QUALIFICATION TO GET CUSTOM HELMET"
     **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
 ??? note "Infantry, Airborne, and CW Guidelines"
