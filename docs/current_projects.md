@@ -3,6 +3,7 @@
 These are current major projects that I am working on that are noteworthy because they have made enough progress to be interesting. 
 
 ??? success "Project Skooma Jumppack"
+    ## Project Skooma Jumppack
     Making a custom jumppack script with as much flexiblity as possible.
     Features one time use jumppacks, jumppacks with different energy capcities,
     recharge rates and differnet jumps. 
@@ -10,6 +11,7 @@ These are current major projects that I am working on that are noteworthy becaus
     This mod has been successfuly implimented into aux mod. Go to controls and find `RD501 Jumppack` or something to change key binds.
 
 ??? warning "Project Prototype"
+    ## Project Prototype
     SWOP is big bad. So lets start moving our weapons to the 212th ones. At the
     same time lets impliment some large weapon reforms. They are:
 
@@ -25,11 +27,13 @@ These are current major projects that I am working on that are noteworthy becaus
     Click [here](../projects/prototype) for more information
 
 ??? warning "Project Light"
+    ## Project Light
     Big suprise,involves reskinning a special droid.
 
     Textures have been made, just gotta impliment and test.
 
 ??? bug "Fix Aux bugs"
+    ## Fix Aux bugs
     Will never be done cause im bad, 
 
     ```
@@ -41,5 +45,6 @@ These are current major projects that I am working on that are noteworthy becaus
     ```
 
 ??? bug "Project Fix SWOP"
+    ## Project Fix SWOP
     Will never be done, abort, halp, plz end me.......
     
