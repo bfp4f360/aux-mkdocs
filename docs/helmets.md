@@ -15,7 +15,7 @@
 [arc_solus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982760000258059/SolusHelmetTemplate.png "Arc solus template"
 
 [flux_helm]: https://cdn.discordapp.com/attachments/425473601047887876/643624891408711700/angrysadcrabhad.png "flux helmet"
-# Helmet guidelines 
+# <span style="color:gold">Helmet guidelines</span> 
 
 Welcome to the helmet guidelines page. Just read through this and it should answer all your questions. Some things are collpased by the way to save space :) look under this for what I mean
 
@@ -24,7 +24,7 @@ Welcome to the helmet guidelines page. Just read through this and it should answ
 
     ![flux_helmet][flux_helm]
 
-## People who make the helmets
+## <span style="color:gold">People who make the helmets</span> 
 
 ==**Sam:**== Will be the lead for texturing for the mod. If you have questions ask him.  
 ==**Calo:**== Will be in charge of Airborne related textures.  
@@ -35,7 +35,7 @@ All other textures will be spread across these 4.
 
 These folks will get in contact with you, depending on where you are, regarding your helmet.
 
-## Process
+## <span style="color:gold">Process</span> 
 
 ### Google Form
 
@@ -57,7 +57,7 @@ These folks will get in contact with you, depending on where you are, regarding 
     6. After this final acceptance the helmet will be put in queue to be put in mod.
     7. enjoy 😊.
 
-## Templates
+## <span style="color:gold">Templates</span> 
 
 !!! danger
     **Disregard** the uniform, only look at helmet. ==YOU CAN ONLY USE THESE COLORS==
@@ -88,12 +88,12 @@ This image is the possible colors that you are allowed.
 ### Aviation Template
 
 !!! warning
-    None. Speak to Casskun and Aviation CoC beforehand.
+    None. Speak to Casskun and Aviation CoC beforehand. Or do it your self and we shall judge :)
 
-## Guidelines
+## <span style="color:gold">Guidelines</span> 
 
 !!! danger "QUALIFICATION TO GET CUSTOM HELMET"
-    **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
+    ==**Note:**== Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
 ??? note "Infantry, Airborne, and CW Guidelines"
     #### Conditions Infantry
