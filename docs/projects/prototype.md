@@ -88,6 +88,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     - 700 m/s
     - Same weight as current Mod 0 240rnd box mag
     - can use ACE belt feed
+    - Tracer every 3
     #### Ammo
     - 2nd to last in terms of damage
 
@@ -139,7 +140,7 @@ As you can see, I try my best to make each gun being the best at one area,and wo
 ??? question "Why bullet drop" 
     * The bullet drop was added for the LE. If theres
     no bullet drop then the bullets go a few mills above the crosshairs which is
-    annoying. Now if you aim at the head of a b1 at 1km, yourt gonna hit the
+    annoying. Now if you aim at the head of a b1 at 1km, your gonna hit the
     head. If you aim at 2km slightly above you will still hit the head
 
     * Also the bullet drop adds one more thing I can use to make weapons distinct.
