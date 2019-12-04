@@ -31,7 +31,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     #### Magazine
     - 30 rounds
     - 500 m/second
-    - same weight as current light mag.
+    - same weight as current low mag.
     #### Ammo
     - Much more damage, 1-2 shots b1's on chest
 
@@ -52,7 +52,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     - x4 scope
     #### Magazine
     - 100 round mag
-    - Same weight as current 15a light mag
+    - Same weight as current 15a low mag
     - Tracer every 4
     - 450 m/s
     #### Ammo
@@ -69,7 +69,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     #### Magazine
     - 300 rounds
     - Tracer every 4
-    - Can belt feed
+    - can use ACE belt feed
     - Little bit more then 66% more magazine weight (30 to 50)
     - 500 m/s
     #### Ammo
@@ -87,6 +87,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     - 200 rounds
     - 700 m/s
     - Same weight as current Mod 0 240rnd box mag
+    - can use ACE belt feed
     #### Ammo
     - 2nd to last in terms of damage
 
@@ -95,11 +96,11 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     Hoesntly just change the qual to sniper not marksmen lol
     #### Weapon
     - x6-12 scope
-    - RPM doesnt matter
+    - RPM doesnt matter, but its 200 RPM
     #### Magazine
     - 20 rounds
     - 1000 m/s
-    - same weight as currentl DC-15a light mag
+    - same weight as currentl DC-15a low mag
     #### Ammo 
     - 1 shots b1's , 5 for b2
 
