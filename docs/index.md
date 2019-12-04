@@ -17,14 +17,14 @@ There are some things in this mod that I didnt make my self that where made by o
     ### Blast Refraction
     This basicly adds a refraction effect to most explosives. It was made by Taros from CUP, and as such its pretty fucking lit.
     [Here](https://forums.bohemia.net/forums/topic/221306-refraction-blast-wave/) is a link to the BI forum about it.  
-    ![Screenshot](permissions/blast_effect.png)
+    ![Screenshot](https://media.discordapp.net/attachments/457505629729325056/651622366010540042/blast_effect.PNG)
 
 ??? info "BF3 style thermals"
     ### BF3 style thermals
     This mod basicly edits the thermal file to add on a bf3 style thermal. Now normally instead of putting someone elses mod in yours, you would just list it as a dependency or something. However due to the way thermals work in Arma as its a png file, you cant do that. So I asked the creator if I could add his thermal colors in. [Heres](https://steamcommunity.com/sharedfiles/filedetails/?id=1799993760) the original steam page.
-    ![Screenshot](permissions/thermal.png)
+    ![Screenshot](https://cdn.discordapp.com/attachments/457505629729325056/651622366895538176/thermal.PNG)
 
 ??? info "Aircraft Boost script"
     ### Aircraft Boost script
     I started modding in Arma because of this lol. while this isnt just yet,I would like to make my own but these guys made a pretty good one better then anything I could make so I ask if I can edit and use it. [Heres](https://steamcommunity.com/workshop/filedetails/?id=743099837) the mod.
-    ![Screenshot](permissions/afterburner.png)
+    ![Screenshot](https://cdn.discordapp.com/attachments/457505629729325056/651622368103497738/afterburner.PNG)
