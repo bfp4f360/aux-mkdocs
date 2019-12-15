@@ -33,7 +33,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     - 500 m/second
     - same weight as current low mag.
     #### Ammo
-    - Much more damage, 1-2 shots b1's on chest
+    - Much more damage, 3-4 shots b1's on chest, but due to how swop is its a little inconsistant.
 
 ??? note "DC-15a GL"
     ### DC-15a GL
@@ -103,7 +103,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     - 1000 m/s
     - same weight as currentl DC-15a low mag
     #### Ammo 
-    - 1 shots b1's , 5 for b2
+    - Even more damage, can like 5 shot b2's
 
 ## Hierarchy
 
