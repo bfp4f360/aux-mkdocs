@@ -171,8 +171,8 @@ The particle effects are the same ones from the 212th aux, but turned way down f
 
 ??? question "Why are the damage order like they are" 
     * The rifle is the backbone so it makes sense why its in the middle.
-    * The placement of LE and carbine to me are also trivial
-    * So that just leaves the Z6 and Mod 0. How can I make the Z6 do good at CQC? make it have good damage. It cant do too good at long range cause of recoil, accuracy, bullet drop and velocity and if you do try and succeed your just wasting its potential. The mod 0 has the 2nd to last damage so that it doesnt out perform the Z6 at close range, but still does better at long range due to accuracy,velocity and drop.
+    * The placement of LE and carbine are also trivial
+    * So that just leaves the Z6 and Mod 0. How can I make the Z6 do good at CQC? make it have good damage. So lets make the Mod-0 the opposite of cqc. The z6 cant do too good at long range cause of recoil, accuracy, bullet drop and velocity and if you do try and succeed your just wasting its potential. The mod 0 has the 2nd to last damage so that it doesnt out perform the Z6 at close range, but still does better at long range due to accuracy,velocity, recoil and bullet drop.
 
 ??? question "Why a RUM bottle icon for RUM mag" 
     * You think I would give up this chance to make a meme.
