@@ -20,6 +20,9 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
 
 ==Note:== All the guns have flashlight/ IR laser attachment since the 212th added those, so wowe.
 
+
+Also the mag icons where made by ==Kestrel==, plz say big thank to him,thank.
+
 ??? note "DC-15a"
     ### DC-15a
     Make it good at short to medium ranges, a battle rifle in a sense.
@@ -105,7 +108,7 @@ will be weapon specific to try and give meaning to that weapons role. Here are t
     #### Ammo 
     - Even more damage, can like 5 shot b2's
 
-## Hierarchy
+## <span style="color:gold">Hierarchy</span>
 
 Im going to try to my best order the guns on different stats. **Left** is lowest/worst, **right** is highest/best
 
@@ -135,7 +138,21 @@ Im going to try to my best order the guns on different stats. **Left** is lowest
 
 As you can see, I try my best to make each gun being the best at one area,and worst at one area. I try.
 
-## Reasons for some of the stuff
+## <span style="color:gold">Unit changes</span>
+
+### B2
+
+The B2 technically got an armor buff,but due to how strong the weapons are its more or less a nerf compared to the current version. In future I wil work on this but for now its okay
+
+### DSD/EKKA
+
+These two had slight armor rework to match currrent values to the new ones.
+
+## <span style="color:gold">Particle Effects</span>
+
+The particle effects are the same ones from the 212th aux, but turned way down for the sake of having less impact, even though they though they dont cause that much frame loss I wanted to still reduce them because sometimes too much spark is bad F.
+
+## <span style="color:gold">Reasons for some of the stuff</span>
 
 ??? question "Why bullet drop" 
     * The bullet drop was added for the LE. If theres
