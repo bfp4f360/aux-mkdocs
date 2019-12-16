@@ -10,7 +10,7 @@
 ==**Sam**==: He is lead texturer, he helps make sure all textures are done in time and in regulation. Wowe.  
 ==**Calo**==: He does textures for Airborne related stuff, like helmets or jumppack. Wowe.  
 ==**Casskun**==: He does textures for Razor related stuff, like helmets or LAATs. Wowe.  
-==**Kestral**==: He does textures for infantry related stuff, like helmets but also helps with other textures. Wowe.
+==**Kestral**==: He does textures for infantry related stuff, like helmets but also helps with other textures. Wowe.   
 ==**Brandon**===: He does big test for special things. Generally I test stuff but theres sometimes things that need 2 eyes (well 4 but u get the idea) and hes good at it.
 
 
