@@ -176,3 +176,18 @@ The particle effects are the same ones from the 212th aux, but turned way down f
 
 ??? question "Why a RUM bottle icon for RUM mag" 
     * You think I would give up this chance to make a meme.
+
+??? question "Why does the rifle have only semi and 2 round burst" 
+    * I didnt want it to outplace the 15s as it should be the king of cqc
+
+??? question "Why does LE not have an iron sight or a cqc zoom leve?" 
+    * So it doesnt overpower rifle or carbine
+
+??? question "Why does z6 and carbine not have good zoom levels?" 
+    * So they dont beat the LE or rifle at mid+ ranges
+
+??? question "Why is the MOD 0 rof so low" 
+    * So it doesnt beat z6 or carbine in cqc
+
+??? question "Why does the mod 0 have better range ,recoil and accuracy then z6?" 
+    * The z6 is a cqc high damage mg,and mod 0 is a long range medium damage mg
