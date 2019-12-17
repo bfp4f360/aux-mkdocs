@@ -134,7 +134,7 @@ Im going to try to my best order the guns on different stats. **Left** is lowest
 
 !!! info "Mag Capacity"
     ### Mag Capacity
-    LE < (Rifle = GL) < Mod-0 < Z6 < Carbine
+    LE < (Rifle = GL) < Carbine < Mod-0 < Z6 
 
 As you can see, I try my best to make each gun being the best at one area,and worst at one area. I try.
 
