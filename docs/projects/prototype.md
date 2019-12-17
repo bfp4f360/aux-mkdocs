@@ -71,7 +71,7 @@ Also the mag icons where made by ==Kestrel==, plz say big thank to him,thank.
     - x4 scope
     #### Magazine
     - 300 rounds
-    - Tracer every 4
+    - Tracer every 3
     - can use ACE belt feed
     - Little bit more then 66% more magazine weight (30 to 50)
     - 500 m/s
