@@ -33,6 +33,7 @@ There are some things in this mod that I didnt make my self that where made by o
 I suspect that alot of ppl outside will like the jumppack, so assuming you are willing to use SWOP (**dies inside**) you can do the following to have our own jumppack. ==NOTE:== I will soon make a standalone mod for non swop ppl.
 
 ??? info "Inheritance for own jumppack"
+    ### Example config.cpp
     ```cpp
     class CfgPatches
     {
