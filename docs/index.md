@@ -30,7 +30,7 @@ There are some things in this mod that I didnt make my self that where made by o
     ![Screenshot](https://cdn.discordapp.com/attachments/457505629729325056/651622368103497738/afterburner.PNG)
 
 ## <span style="color:gold">Jumppack</span> 
-I suspect that alot of ppl outside will like the jumppack, so assuming you are willing to use SWOP (**dies inside**) you can do the following to have our own jumppack. ==NOTE:== I will soon make a standalone mod for non swop ppl.
+I suspect that alot of ppl outside will like the jumppack, so assuming you are willing to use SWOP (**dies inside**) you can do the following to have our own jumppack. ==NOTE:== I will soon make a standalone mod for non swop ppl soooon when I get time and not memeing.
 
 ??? info "Inheritance for own jumppack"
     ### Example config.cpp
