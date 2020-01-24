@@ -1,9 +1,10 @@
-# <span style="color:gold">Welcome to 501st Aux mod Mkdocs site</span> 
+White is bad.
+<!-- # <span style="color:gold">Welcome to 501st Aux mod Mkdocs site</span> 
 
-Hello this is a simple mkdocs site for the 501st Aux mod. Here I will post any major changelogs and other information for the unit.
+Hello this is a simple mkdocs site for the 501st Aux mod. Here I will post any major changelogs and other information for the unit. -->
 
 <!-- Also this is the link to the fancy mkdocs site [here](https://aux-mkdocs.readthedocs.io/en/latest/) -->
-
+<!-- 
 ## <span style="color:gold">Mod links </span> 
 
 - This [here](https://steamcommunity.com/sharedfiles/filedetails/?id=1847261252) is the live aux mod. It will generaly update every Sunday, unless there is a big bug to fix.
@@ -97,4 +98,4 @@ I suspect that alot of ppl outside will like the jumppack, so assuming you are w
             maximumload = 700;
         };
     };
-    ```
+    ``` -->
